@@ -49,6 +49,7 @@ h2{
     bottom: 10px;
 }
 .aboutMe{
+    max-width: 1400px;
     background-color: whitesmoke;
     border-radius: 25px;
     padding-bottom: 25px;
@@ -57,6 +58,7 @@ h2{
     padding-top: 5px;
 }
 .interests{
+    max-width: 1400px;
     background-color: whitesmoke;
     border-radius: 25px;
     padding-bottom: 25px;

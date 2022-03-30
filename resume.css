@@ -29,7 +29,8 @@ h1{
 }
 .mainBody{
     position: relative;
-    left: 30%;
+    left: auto;
+    right: auto;
     padding: 15px;
     margin: 15px;
     background-color: whitesmoke;

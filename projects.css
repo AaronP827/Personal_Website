@@ -20,7 +20,8 @@ header{
 }
 main{
     position: relative;
-    left: 10%;
+    left: auto;
+    right: auto;
     max-width: 1000px;
     margin: 25px;
     background-color: whitesmoke;
