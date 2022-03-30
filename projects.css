@@ -1,0 +1,46 @@
+nav ul li {
+	display: inline;
+}
+nav a {
+    color: purple;
+    text-decoration: none;
+    padding: .5em 1em;
+}
+nav{
+    background: whitesmoke;
+    font-size: larger;
+    max-width: fit-content;
+    border-radius: 25px;
+    padding-right: 35px;
+    padding-top: 3px;
+    padding-bottom: 3px;
+}
+header{
+    margin: 25px;
+}
+main{
+    position: relative;
+    left: 10%;
+    max-width: 1000px;
+    margin: 25px;
+    background-color: azure;
+    border-radius: 25px;
+    padding-left: 25px;
+    padding-right: 25px;
+    padding-bottom: 25px;
+    padding-top: 10px;
+}
+body{
+    background-color: mediumseagreen;
+}
+h1{
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 1.5cm;
+}
+.ProjectName{
+    font-size: 1cm;
+    font-family: sans-serif;
+}
+p{
+    font-size: .5cm;
+}
