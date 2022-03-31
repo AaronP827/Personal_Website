@@ -18,9 +18,10 @@ nav{
 header{
     margin: 25px;
 }
-main{
+.mainBody{
     position: relative;
     left: 50%;
+    right: 50%;
     max-width: 1000px;
     margin: 25px;
     background-color: whitesmoke;
