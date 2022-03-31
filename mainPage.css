@@ -1,8 +1,6 @@
 body{
     background-color: rgb(7, 72, 126);
-    margin-left: 25px;
-    margin-right: 25px;
-    max-width: 100%;
+    margin: 25px;
 }
 .portrait{
     position: relative;
@@ -49,9 +47,6 @@ h2{
     bottom: 10px;
 }
 .aboutMe{
-    position: relative;
-    left: 50%;
-    right: 50%;
     max-width: 1450px;
     background-color: whitesmoke;
     border-radius: 25px;
@@ -59,11 +54,9 @@ h2{
     padding-left: 25px;
     padding-right: 25px;
     padding-top: 5px;
+    margin: 25px;
 }
 .interests{
-    position: relative;
-    left: 50%;
-    right: 50%;
     max-width: 1450px;
     background-color: whitesmoke;
     border-radius: 25px;
@@ -71,7 +64,7 @@ h2{
     padding-left: 25px;
     padding-right: 25px;
     padding-top: 5px;
-    margin-top: 25px;
+    margin: 25px;
 }
 h3{
     color: white;
