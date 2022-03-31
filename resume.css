@@ -29,10 +29,10 @@ h1{
 }
 .mainBody{
     position: relative;
-    left: auto;
-    right: auto;
+    left: 50%;
+    right: 50%;
     padding: 15px;
-    margin: 15px;
+    margin: 25px;
     background-color: whitesmoke;
     border-radius: 25px;
 }
